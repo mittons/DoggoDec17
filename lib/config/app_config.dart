@@ -9,5 +9,5 @@ class DefaultAppConfig extends AppConfig {
 }
 
 class IntegrationTestConfig extends AppConfig {
-  IntegrationTestConfig() : super(doggoBaseApiUrl: "http://localhost:8017");
+  IntegrationTestConfig() : super(doggoBaseApiUrl: "http://localhost:3017");
 }

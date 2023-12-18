@@ -59,7 +59,7 @@ jobs:
             -d web-server \
             --driver=test_driver/integration_test.dart \
             --target=integration_test/app_test.dart \
-            --dart-define=CI=true \
+            --dart-define=CI=true
 
       - name: Build Flutter Web
         run: flutter build web --release --base-href /DoggoDec17/
