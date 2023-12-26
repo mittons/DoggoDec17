@@ -4,8 +4,7 @@ Reiteration of [DoggoDec16](https://github.com/mittons/DoggoDec16) and [DoggoDis
 
 Most of it was written from memory and understanding. A few small bits were copied directly from either of the projects mentioned.
 
-
-
+Uses data from [TheDogApi.com](https://thedogapi.com/).
 
 Uses [DoggoDec17](https://github.com/mittons/DoggoDec17) as a mock image for testing.
 
